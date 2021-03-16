@@ -1,0 +1,25 @@
+"id_lido","nome","id_cluster"
+1,"Marinella",1
+2,"Sole Mio",1
+3,"Virgola",1
+4,"Passeggero",1
+5,"Carminuccio",1
+6,"Primavera",2
+7,"Carangelo",2
+8,"Covino",2
+9,"Maiorano",2
+10,"Pannocchiella",2
+11,"Aperitivo",3
+12,"Bella Gioia",3
+13,"Carbonara",3
+14,"Acqua Alta",3
+15,"Emilia",3
+16,"AL chicco D'Oro",0
+17,"Gelosia",0
+18,"MagnaMagna",0
+19,"Alessandria",0
+20,"La Barchetta",0
+21,"Zi Nicola",0
+22,"Calcaterra",0
+23,"Acqua Salata",1
+24,"Petunia",1
